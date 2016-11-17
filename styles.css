@@ -1,0 +1,97 @@
+/***********************
+
+***********************/
+body {
+	font-family: "Proza Libre", arial, sans-serif;
+	text-align: center;
+}
+
+#columns {
+	column-count: 3;
+	width: 100%;
+	margin: 10px;
+	padding: 0;
+	height: auto;
+	margin-left: 3.5%;
+
+}
+
+div.colummAdjust {
+	 
+    
+	width: 600px;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+
+
+/*****************************
+HEADING
+*****************************/
+
+
+
+.title {
+	border: none;
+	font-family: Dosis, helvetica, sans-serif;
+}
+
+
+
+
+
+/****************************
+ARTICLE STYLING
+****************************/
+
+
+
+article {
+	width: 75%;
+	height: auto;
+	font-family:/* Dosis,*/ arial, sans-serif;
+	border: 1px solid lightblue;
+}
+
+img.centered {
+	display: block:;
+	margin-left: auto;
+	margin: auto;
+}
+
+h2 {
+	border: 1px dotted lightgray;
+}
+
+.justify {
+	text-align: justify;
+}
+
+.leftAlign {
+	text-align: left;
+}
+
+#available {
+	background-color: grey;
+	color: yellow;
+}
+
+p.boldestP {
+	font-weight: 900;
+	text-align: left;
+}
+
+
+
+
+/*********************************
+FOOTER STYLIING
+*********************************/
+
+
+
+footer {
+	font-size: .8em;
+}
+
